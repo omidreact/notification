@@ -15,3 +15,7 @@ add in build.gradle
 <br><br>
 ![gar](https://user-images.githubusercontent.com/116552870/230725587-659d409c-5431-45f2-a7d6-f914d585a408.jpg)
 <br><br>
+add in colors
+<br><br>
+![color](https://user-images.githubusercontent.com/116552870/230725787-6b962081-a356-4cdc-9e38-34ca90668e02.jpg)
+<br><br>
